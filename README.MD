@@ -93,11 +93,11 @@ python3 DDoS_GUI.py
 
 - MacOS X 10.10.5 Onwards (OS X Yosmite)
 
-> This should run on all enviorments. Even on Oldest OS's provided the above dependancies are completed
+> 这个应该可以在所有的环境下运行，即使是在最旧的系统也要保证上述依赖性完成。
 
-## Images
+## 图像
 
-Showing some Interfaces and their Interactive Enviorments.
+展示一些接口和其互动环境
 
 ![AnonymousDDoS_GUI](https://munublogs.files.wordpress.com/2020/05/screen-shot-2020-05-13-at-8.11.04-pm.png)
 
@@ -105,7 +105,7 @@ Showing some Interfaces and their Interactive Enviorments.
 
 ![Terminal_Photos2](https://munublogs.files.wordpress.com/2020/05/screen-shot-2020-05-13-at-8.10.30-pm.png)
 
-## License
-All Copyrights Reserved to Muneeb Khurram, HULK-DoS Tool’s Copyrights to their Authors as well.
-For all the Script Kiddes out there, Welcome to DDoS Heaven’s.
-See License before using
+## 许可证
+版权归Muneeb Khurram所有, HULK-DoS工具也归其作者所有。
+这里所有的脚本都是开玩笑的，欢迎来到DDoS天堂。
+使用前请参照许可证

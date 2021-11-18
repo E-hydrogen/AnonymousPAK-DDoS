@@ -1,10 +1,10 @@
-# Anonymous DDoS Tool
+# 匿名DDoS工具
 
-This DDoS Tool has been written by Muneeb Khurram, and this Script could only be used for Educational Purposes see License. Now added a GUI with only Two Dependancies Pyfiglet and GoLang.
+这个DDoS工具是Muneeb Khurram写的，并且这个脚本只能用于教育目的，请参阅许可证。现在添加了一个只依赖于Pyfiglet和GoLang的GUI.
 
-## Installation
+## 安装
 
-#### - Dependancies
+#### - 依赖于
 a) pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
 pip3 install pyttsx3
@@ -65,23 +65,23 @@ go
 If not Follow, the above shown for Linux/Ubuntu
 
 
-## Other
+## 其它
 Use Install_Dependancies.py to Install all of these except GoLang (it has to be downloaded Manually)
 ````
 python3 Install_Dependancies.py
 ````
-## Usage
+## 用法
 ````
 python3 Python-Script.py
 ````
-## GUI Requirements
+## GUI 要求
 
-> Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly Easy to use. Recommended for Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
+> 如上所述，安装Pyfiglet和GoLang，这些你已经准备好了。如果您还没安装，请使用此方法安装。此DDoS工具很容易使用，建议初学者使用Windows系统。如果你在Linux Distro上运行它并且收到了“tkinter not found”，请安装tkinter. 
 
 ```
 python3 DDoS_GUI.py
 ```
-## Tested OS/ENV
+## 测试 OS/ENV
 
 - Linux Stable Release 2020
 

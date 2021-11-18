@@ -1,6 +1,6 @@
 # 匿名DDoS工具
 
-这个DDoS工具是Muneeb Khurram写的，并且这个脚本只能用于教育目的，请参阅许可证。现在添加了一个只依赖于Pyfiglet和GoLang的GUI.
+这个DDoS工具是Muneeb Khurram写的（宇涵翻译的），并且这个脚本只能用于教育目的，请参阅许可证。现在添加了一个只依赖于Pyfiglet和GoLang的GUI.
 
 ## 安装
 

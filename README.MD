@@ -1,39 +1,39 @@
 # 匿名DDoS工具
 
-这个DDoS工具是Muneeb Khurram写的（宇涵翻译的），并且这个脚本只能用于教育目的，请参阅许可证。现在添加了一个只依赖于Pyfiglet和GoLang的GUI.
+这个DDoS工具是Muneeb Khurram写的（我翻译的），并且这个脚本只能用于教育目的，请参阅许可证。现在添加了一个只依赖于Pyfiglet和GoLang的GUI.
 
 ## 安装
 
 #### - 依赖于
-a) pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
+a) pyttsx3 (文本到语音)只是为了让它变得更酷。不需要GUI。
 ```
 pip3 install pyttsx3
 ```
-b) pyfiglet (Cause its Neccesary to be Cooler)
-Install Figlet in Kali Linux as some results show that pyfiglet doesnt show anything.
+b) pyfiglet (因为有必要更酷)
+在Kali Linux中安装Figlet因为一些结果表示pyfiglet不显示任何东西。
 ```
 sudo apt-get install figlet
 ```
 ```
 pip3 install pyfiglet
 ```
-c) colorama (Another Step towards CLI Beauty)
+c) colorama (迈向CLI Beauty的又一步)
 ```
 pip3 install colorama
 ````
-d) os (Already in Python3)
+d) os (Python3中已经准备了)
 ```
 pip3 install os
 ```
-e) socket (For an Upcomming Release)
+e) socket (为了升级释放)
 ```
 pip3 install socket
 ```
-f) wheel (To make wheel of colorama) 
+f) wheel (使wheel有更多颜色) 
 ```
 pip3 install wheel
 ```
-e) GoLang (Download for your OS form Golang.org/dl/) 
+e) GoLang (form Golang.org/dl/ 下载你的系统) 
 
 ### MacOS
 
@@ -56,17 +56,17 @@ sudo apt-get install golang-go
 
 ### Kali Linux
 
-Kali has GoLang Pre-Installed.
-Check by typing;
+Kali有GoLang Pre-Installed.
+打字检查;
 
 ```
 go 
 ```
-If not Follow, the above shown for Linux/Ubuntu
+如果不遵循，上面显示的是Linux/Ubuntu
 
 
 ## 其它
-Use Install_Dependancies.py to Install all of these except GoLang (it has to be downloaded Manually)
+用Install_Dependancies.py来安装除了GoLang以外的缩影东西(GoLang必须手动下载)
 ````
 python3 Install_Dependancies.py
 ````

@@ -33,7 +33,7 @@ f) wheel (使wheel有更多颜色)
 ```
 pip3 install wheel
 ```
-e) GoLang (form Golang.org/dl/ 下载你的系统) 
+e) GoLang (从 Golang.org/dl/ 下载你的系统) 
 
 ### MacOS
 
